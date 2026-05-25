@@ -8,7 +8,7 @@ This project extends Quantitative Bipolar Argumentation Frameworks (QBAFs) with:
 - Utterance equilibrium
 - Expansion/reduction dialogue protocols
 
-The notebook includes examples and experiments under:
+Includes examples and experiments under:
 - DF-QuAD semantics
 - Quadratic Energy semantics
 
